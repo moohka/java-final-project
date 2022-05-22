@@ -1,0 +1,16 @@
+2022/01/01
+       Feed - chicken feed 15kg, $123.12
+2022/01/08
+       Fuel - truck fillup, $80.88
+2022/01/04
+       Payroll - payroll, $123.12
+2022/01/01
+       Payroll - pay1, $1,269.00
+2022/01/22
+       Feed - chick feed 100kg, $80.45
+2022/01/08
+       Others - tools, $30.30
+2022/01/02
+       Feed - asdf , $123.00
+2022/01/01
+       Fuel - zxcv, $123.00
