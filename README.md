@@ -1,2 +1,2 @@
 # java-final-project
-chicken poultry software 
+Software for poultry
