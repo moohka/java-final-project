@@ -1,2 +1,2 @@
 # java-final-project
-Software for poultry farm
+Management software for poultry farm
